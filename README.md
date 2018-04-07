@@ -32,14 +32,8 @@ This repository preserves an implementation of Linear and Logistic Regression, u
     print(f'\nBatch Gradient Descent Info\nR square: {lm_batch.score(y,x)[0]}\nAdj R square: {lm_batch.score(y,x)[1]}\nCoeffs:                  {lm_batch.coefs}\tP-values: {lm_batch.p_values}\nIntercept: {lm_batch.intercept}\nRMSE: {lm_batch.get_RMSE(y,yhat_batch)}\n')
 
 
-
-
-
-sadsadassaasdsadas
+Logistic Regression
 -------------------------------------------------------------------------------------------------------------------------
-
-
-
 
     x = [2.7810836,1.465489372,3.396561688,1.38807019,3.06407232,7.627531214,5.332441248,6.922596716,8.675418651,7.673756466]
     y = [0,0,0,0,0,1,1,1,1,1]
