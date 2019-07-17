@@ -2,6 +2,9 @@
 
 This project is an implementation of machine learning algorithms *Linear* and *Logistic* Regression. Both models are implemented in *Python* and are available either with Stochastic or Batch Gradient Descent optimization.
 
+These models are implemented to determine the stance between pairs of headlines and bodies in sample articles. [More details](https://drive.google.com/open?id=18MBpPbfj1KRMH28Sd-I8bScS3d4q2OFw) 
+
+
 1. **Linear Regression**
 
 ```
