@@ -1,7 +1,7 @@
 # Regressions
 This repository preserves an implementation of Linear and Logistic Regression, using a Stochastic and Batch Gradient Descent
 
-1. ###Linear Regression
+1. **Linear Regression**
 
 ```
 x = np.array([1, 2, 4, 3, 5])  # x variable
@@ -35,7 +35,7 @@ print(f'\nBatch Gradient Descent Info\nR square: {lm_batch.score(y,x)[0]}\nAdj R
 ```
     
 
-2. ###Logistic Regression
+2. **Logistic Regression**
 
 ```
 x = [2.7810836,1.465489372,3.396561688,1.38807019,3.06407232,7.627531214,5.332441248,6.922596716,8.675418651,7.673756466]
