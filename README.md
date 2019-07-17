@@ -1,5 +1,6 @@
 # Regressions
-This repository preserves an implementation of Linear and Logistic Regression, using a Stochastic and Batch Gradient Descent
+
+This project is an implementation of machine learning algorithms *Linear* and *Logistic* Regression. Both models are implemented in *Python* and are available either with Stochastic or Batch Gradient Descent optimization.
 
 1. **Linear Regression**
 
